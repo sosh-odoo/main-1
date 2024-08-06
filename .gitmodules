@@ -1,0 +1,3 @@
+[submodule "sub-1"]
+	path = sub-1
+	url = https://github.com/sosh-odoo/sub-1.git
